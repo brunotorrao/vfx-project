@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bruno/OneDrive/Documentos/Unreal Projects/VFXProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/bruno/OneDrive/Documentos/Unreal Projects/VFXProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/bruno/OneDrive/Documentos/Unreal Projects/VFXProject/Content/Player/MChar/ABP_MChar.uasset",
+				"C:/Users/bruno/OneDrive/Documentos/Unreal Projects/VFXProject/Content/Player/MChar/SK_MChar_FullBody_Skeleton.uasset",
+				"C:/Users/bruno/OneDrive/Documentos/Unreal Projects/VFXProject/Content/Player/Animations/SpellCasting/A_MChar_FirePunch_Montage.uasset"
+			]
+		}
+	]
+}
